@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: aqua;
+}
+main {
+    background-color: yellow;
+    width: 60%;
+    margin: auto;
+    display: flex;
+    padding: 40px;
+    color: #0e02ff;
+    justify-content: space-evenly;
+}
+
+footer {
+    background-color: yellowgreen;
+}
+
+section {
+    border: 1px solid #000;
+    width: 30%;
+    padding: 20px;
+}
